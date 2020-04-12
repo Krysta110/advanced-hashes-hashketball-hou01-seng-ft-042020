@@ -323,7 +323,7 @@ end
 def player_with_longest_name
 #which player has the longest name? call this method
 
-#make a new array & then sort names by length? 
+#make a new array & then sort names by length?
 
 end
 
@@ -332,7 +332,7 @@ def long_name_steals_a_ton
 #write a method that returns true if the player with the
 #longest name had the most steals. call this method
 
-#first call player_with_longest_name method 
+#first call player_with_longest_name method
 
 
 end

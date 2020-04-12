@@ -323,6 +323,7 @@ end
 def player_with_longest_name
 #which player has the longest name? call this method
 
+#make a new array & then sort names by length? 
 
 end
 
